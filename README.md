@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-At the last years I worked with Angular, Typescript, RxJS and ES 2015. Since 2014 working with AngularJS, jQuery, Javascript, Bootstrap, CSS, UX, besides working on experimental projects with NodeJS, ExpressJS, MongoDB, PWA, Firebase, Flutter, ReactJS, VueJS, Functional Programming, Reactive Programming and other latest technologies. Involved with SAAS startup environment and software technology in general (design, development and marketing). Focus on results and solutions to complex problems, I dedicate myself in a proactive way, always looking for ways to solve any challenge that someone entrusts it.
+In the last years worked with Angular, Typescript, RxJS, and ES2015. Since 2014 working with AngularJS, jQuery, Javascript, Bootstrap, CSS, UX, besides working on experimental projects with NodeJS, ExpressJS, MongoDB, PWA, Firebase, Flutter, and other latest technologies.
+Involved with SAAS startup environment and software technology in general (design, development, and marketing).
+Focus on results and solutions to complex problems, I proactively dedicate myself, always looking for ways to solve any challenge that someone entrusts it.
