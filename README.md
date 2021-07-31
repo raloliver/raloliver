@@ -26,5 +26,7 @@ Focus on results and solutions to complex problems, I proactively dedicate mysel
 <!--
 [![raloliver's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raloliver&theme=solarized-dark)](https://wakatime.com/@raloliver)
 -->
-[![raloliver's, Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=jforum&theme=solarized-dark)](https://github.com/raloliver/jforum/)
+[![raloliver's, Extra Pin Card (jforum)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=jforum&theme=solarized-dark)](https://github.com/raloliver/jforum/)
+
+[![raloliver's, Extra Pin Card (type-graphql-mongo)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=type-graphql-mongo&theme=solarized-dark)](https://github.com/raloliver/type-graphql-mongo/)
 
