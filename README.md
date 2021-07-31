@@ -28,5 +28,5 @@ Focus on results and solutions to complex problems, I proactively dedicate mysel
 -->
 [![raloliver's, Extra Pin Card (jforum)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=jforum&theme=solarized-dark)](https://github.com/raloliver/jforum/)
 
-[![raloliver's, Extra Pin Card (type-graphql-mongo)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=type-graphql-mongo&theme=solarized-dark&card_width=500)](https://github.com/raloliver/type-graphql-mongo/)
+[![raloliver's, Extra Pin Card (type-graphql-mongo)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=type-graphql-mongo&theme=solarized-dark)](https://github.com/raloliver/type-graphql-mongo/)
 
