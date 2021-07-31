@@ -20,8 +20,11 @@ Most recently, starting studying the "dark side of the moon", the backend also t
 Involved with SAAS startup environment and software technology in general (design, development, marketing, and financial).
 Focus on results and solutions to complex problems, I proactively dedicate myself, always looking for ways to solve any challenge that someone entrusts it.
 
-[![raloliver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raloliver&show_icons=true&theme=solarized-dark)](#)
-[![raloliver's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raloliver&langs_count=10&hide=php,dart,visual%20basic,makefile,c%23,tsql,shell,apacheconf,Objective-C,D,Ruby,Swift,Kotlin,ASP&theme=solarized-dark)](#)
-[![raloliver's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raloliver&theme=solarized-dark)](#)
+[![raloliver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raloliver&show_icons=true&theme=solarized-dark)](https://profile-summary-for-github.com/user/raloliver)
+
+[![raloliver's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raloliver&langs_count=10&hide=php,dart,visual%20basic,makefile,c%23,tsql,shell,apacheconf,Objective-C,D,Ruby,Swift,Kotlin,ASP&theme=solarized-dark)](http://ionicabizau.github.io/github-profile-languages/?user=%2540raloliver)
+
+[![raloliver's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raloliver&theme=solarized-dark)](https://wakatime.com/@raloliver)
+
 [![raloliver's, Extra Pin Card](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=jforum&theme=solarized-dark)](#)
 
