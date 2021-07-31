@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-In the last years worked with Angular, Typescript, RxJS, and ES2015. Since 2014 working with AngularJS, jQuery, Javascript, Bootstrap, CSS, UX, besides working on experimental projects with NodeJS, ExpressJS, MongoDB, PWA, Firebase, Flutter, and other latest technologies.
-Involved with SAAS startup environment and software technology in general (design, development, and marketing).
+In the last years worked with Angular, Typescript, RxJS, and ES2015. Since 2014 working with AngularJS, jQuery, Javascript, Bootstrap, CSS, UX, besides working on experimental projects with NodeJS, ExpressJS, MongoDB, PWA, Firebase, Flutter, and other latest front-end technologies.
+Most recently, starting studying the "dark side of the moon", the backend also the patterns involved. This time with Java + Spring Framework, Microservices, Docker, and all stuff that is necessary to be a full-stack developer.
+Involved with SAAS startup environment and software technology in general (design, development, marketing, and financial).
 Focus on results and solutions to complex problems, I proactively dedicate myself, always looking for ways to solve any challenge that someone entrusts it.
+
+[![raloliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=raloliver&show_icons=true&theme=solarized-dark)](#)
+
