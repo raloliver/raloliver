@@ -23,9 +23,9 @@ Focus on results and solutions to complex problems, I proactively dedicate mysel
 [![raloliver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raloliver&show_icons=true&theme=solarized-dark)](https://profile-summary-for-github.com/user/raloliver)
 
 [![raloliver's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raloliver&langs_count=10&hide=php,dart,visual%20basic,makefile,c%23,tsql,shell,apacheconf,Objective-C,D,Ruby,Swift,Kotlin,ASP&theme=solarized-dark&card_width=500)](http://ionicabizau.github.io/github-profile-languages/?user=%2540raloliver)
-<!--
-[![raloliver's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=raloliver&theme=solarized-dark)](https://wakatime.com/@raloliver)
--->
+
+[![raloliver's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@raloliver&theme=solarized-dark&layout=compact)](https://wakatime.com/@raloliver)
+
 [![raloliver's, Extra Pin Card (jforum)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=jforum&theme=solarized-dark)](https://github.com/raloliver/jforum/)
 
 [![raloliver's, Extra Pin Card (type-graphql-mongo)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=type-graphql-mongo&theme=solarized-dark)](https://github.com/raloliver/type-graphql-mongo/)
