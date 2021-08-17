@@ -28,10 +28,7 @@ Focus on results and solutions to complex problems, I proactively dedicate mysel
 
 ### DEMO PROJECTS
 
-
-[youtube]: https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz
-
-A list of videos that I showing some projects demo.
+[youtube]: https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz A list of videos that I showing some projects demo.
 
 ### CV (Curriculm Vitae)
 English Version
