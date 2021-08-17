@@ -29,7 +29,7 @@ Focus on results and solutions to complex problems, I proactively dedicate mysel
 
 ### CV (Curriculum Vitae)
 
-[<img src="https://simpleicons.org/icons/adobeacrobatreader.svg" width="22" alt="raloliver | cv" title="raloliver | cv"/>](https://raloliver.com/israel-oliveira-cv-v2-pt.pdf) [English Version](http://raloliver.com/israel-oliveira-cv-v5-en.pdf)
+[<img src="https://simpleicons.org/icons/adobeacrobatreader.svg" width="22" alt="raloliver | cv" title="raloliver | cv"/>](https://raloliver.com/israel-oliveira-cv-v2-pt.pdf) [English Version](https://raloliver.com/israel-oliveira-cv-v5-en.pdf)
 
 [![raloliver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raloliver&show_icons=true&theme=solarized-dark)](https://profile-summary-for-github.com/user/raloliver)
 
