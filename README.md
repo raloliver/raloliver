@@ -25,7 +25,9 @@ Focus on results and solutions to complex problems, I proactively dedicate mysel
 
 [<img align="left" alt="raloliver | youtube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
 
+
 ### DEMO PROJECTS
+
 
 [youtube]: https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz
 
