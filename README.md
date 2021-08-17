@@ -24,7 +24,8 @@ Involved with SAAS startup environment and software technology in general (desig
 Focus on results and solutions to complex problems, I proactively dedicate myself, always looking for ways to solve any challenge that someone entrusts it.
 
 ### DEMO PROJECTS
-[![<img src="https://simpleicons.org/icons/youtube.svg" alt="raloliver | youtube" title="raloliver | youtube" />](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz)
+
+[![raloliver | youtube](https://i.imgur.com/6yeoo7X.png "raloliver | youtube")](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz)
 A list of videos that I showing some projects demo.
 
 ### CV (Curriculm Vitae)
