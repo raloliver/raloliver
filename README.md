@@ -23,7 +23,7 @@ Involved with SAAS startup environment and software technology in general (desig
 
 Focus on results and solutions to complex problems, I proactively dedicate myself, always looking for ways to solve any challenge that someone entrusts it.
 
-[<img align="left" alt="raloliver | youtube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
+[<img alt="raloliver | youtube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
 
 
 ### DEMO PROJECTS
