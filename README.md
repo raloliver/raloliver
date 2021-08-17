@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+.youtube path {
+    color:red;
+}
+</style>
 
 In the last years worked with Angular, Typescript, RxJS, and ES2015. Since 2014 working with AngularJS, jQuery, Javascript, Bootstrap, CSS, UX, besides working on experimental projects with NodeJS, ExpressJS, MongoDB, PWA, Firebase, Flutter, and other latest front-end technologies.
 
@@ -25,7 +30,7 @@ Focus on results and solutions to complex problems, I proactively dedicate mysel
 
 ### DEMO PROJECTS
 
-A list of videos that I showing some projects demo. [<img src="https://simpleicons.org/icons/youtube.svg" width="22" alt="raloliver | youtube" title="raloliver | youtube" style="fill: red"/>](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz)
+A list of videos that I showing some projects demo. [<img src="https://simpleicons.org/icons/youtube.svg" width="22" alt="raloliver | youtube" title="raloliver | youtube" class="youtube"/>](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz)
 
 ### CV (Curriculum Vitae)
 
