@@ -25,7 +25,7 @@ Focus on results and solutions to complex problems, I proactively dedicate mysel
 
 ### DEMO PROJECTS
 
-A list of videos that I showing some projects demo. [<img src="https://simpleicons.org/icons/youtube.svg" width="22" alt="raloliver | youtube" title="raloliver | youtube" style="filter: invert(18%) sepia(87%) saturate(5544%) hue-rotate(356deg) brightness(108%) contrast(121%)"/>](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz)
+A list of videos that I showing some projects demo. [<img src="https://simpleicons.org/icons/youtube.svg" width="22" alt="raloliver | youtube" title="raloliver | youtube" style="fill: red"/>](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz)
 
 ### CV (Curriculum Vitae)
 
