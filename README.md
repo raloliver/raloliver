@@ -25,11 +25,11 @@ Focus on results and solutions to complex problems, I proactively dedicate mysel
 
 ### DEMO PROJECTS
 
-A list of videos that I showing some projects demo. [<img src="https://simpleicons.org/icons/youtube.svg" width="22" alt="raloliver | youtube" title="raloliver | youtube" />](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz)
+[<img src="https://simpleicons.org/icons/youtube.svg" width="22" alt="raloliver | youtube" title="raloliver | youtube" />](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz) [A list of videos that I showing some projects demo](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz).
 
 ### CV (Curriculum Vitae)
 
-English Version[<img src="https://simpleicons.org/icons/adobeacrobatreader.svg" width="22" alt="raloliver | cv" title="raloliver | cv"/>](https://raloliver.com/israel-oliveira-cv-v2-pt.pdf)
+[<img src="https://simpleicons.org/icons/adobeacrobatreader.svg" width="22" alt="raloliver | cv" title="raloliver | cv"/>](https://raloliver.com/israel-oliveira-cv-v2-pt.pdf) [English Version](https://raloliver.com/israel-oliveira-cv-v2-pt.pdf)
 
 [![raloliver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raloliver&show_icons=true&theme=solarized-dark)](https://profile-summary-for-github.com/user/raloliver)
 
