@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<link href="://raloliver.com/github.css" rel="stylesheet"></link>
+<link href="style.css" rel="stylesheet"></link>
 
 In the last years worked with Angular, Typescript, RxJS, and ES2015. Since 2014 working with AngularJS, jQuery, Javascript, Bootstrap, CSS, UX, besides working on experimental projects with NodeJS, ExpressJS, MongoDB, PWA, Firebase, Flutter, and other latest front-end technologies.
 
