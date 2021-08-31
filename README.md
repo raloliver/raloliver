@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 In the last years worked with Angular, Typescript, RxJS, and ES2015. Since 2014 working with AngularJS, jQuery, Javascript, Bootstrap, CSS, UX, besides working on experimental projects with NodeJS, ExpressJS, MongoDB, PWA, Firebase, Flutter, and other latest front-end technologies.
 
-Most recently, starting studying the "dark side of the moon", the backend also the patterns involved. This time with Java + Spring Framework, Microservices, Docker, and all stuff that is necessary to be a full-stack developer.
+Most recently, starting studying the "dark side of the moon", the backend also the patterns involved. This time with Java + Spring Framework, Microservices, Docker, and all stuff that is necessary to be a full-stack developer, also working with ReactJS for experimental/personal projects. 
 
 Involved with SAAS startup environment and software technology in general (design, development, marketing, and financial).
 
@@ -39,5 +39,6 @@ Focus on results and solutions to complex problems, I proactively dedicate mysel
 
 [![raloliver's, Extra Pin Card (jforum)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=jforum&theme=solarized-dark)](https://github.com/raloliver/jforum/)
 
-[![raloliver's, Extra Pin Card (type-graphql-mongo)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=type-graphql-mongo&theme=solarized-dark)](https://github.com/raloliver/type-graphql-mongo/)
+[![raloliver's, Extra Pin Card (react-context-api)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=react-context-api&theme=solarized-dark)](https://github.com/raloliver/react-context-api/)
 
+[![raloliver's, Extra Pin Card (type-graphql-mongo)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=type-graphql-mongo&theme=solarized-dark)](https://github.com/raloliver/type-graphql-mongo/)
