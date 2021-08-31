@@ -29,7 +29,7 @@ Focus on results and solutions to complex problems, I proactively dedicate mysel
 
 ### CV (Curriculum Vitae)
 
-[<img src="https://simpleicons.org/icons/adobeacrobatreader.svg" width="22" alt="raloliver | cv" title="raloliver | cv"/>](https://raloliver.com/israel-oliveira-cv-v2-pt.pdf) [English Version](https://raloliver.com/israel-oliveira-cv-v5-en.pdf)
+[<img src="https://simpleicons.org/icons/adobeacrobatreader.svg" width="22" alt="raloliver | cv" title="raloliver | cv"/>](https://raloliver.com/israel-oliveira-cv-v5-en.pdf) [English Version](https://raloliver.com/israel-oliveira-cv-v5-en.pdf)
 
 [![raloliver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raloliver&show_icons=true&theme=solarized-dark)](https://profile-summary-for-github.com/user/raloliver)
 
@@ -42,3 +42,11 @@ Focus on results and solutions to complex problems, I proactively dedicate mysel
 [![raloliver's, Extra Pin Card (react-context-api)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=react-context-api&theme=solarized-dark)](https://github.com/raloliver/react-context-api/)
 
 [![raloliver's, Extra Pin Card (type-graphql-mongo)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=type-graphql-mongo&theme=solarized-dark)](https://github.com/raloliver/type-graphql-mongo/)
+
+### Training Schools
+
+[<img src="https://cursos.alura.com.br/assets/images/alura/favicon.ico" width="22" alt="raloliver | alura profile" title="raloliver | alura profile"/>](https://cursos.alura.com.br/user/raloliver) [Alura Profile](https://cursos.alura.com.br/user/raloliver)
+
+[<img src="https://simpleicons.org/icons/pluralsight.svg" width="22" alt="raloliver | pluralsight profile" title="raloliver | pluralsight profile"/>](https://app.pluralsight.com/profile/raloliver) [Pluralsigth Profile](https://app.pluralsight.com/profile/raloliver)
+
+[<img src="https://simpleicons.org/icons/udemy.svg" width="22" alt="raloliver | udemy profile" title="raloliver | udemy profile"/>](https://www.udemy.com/user/joomtusraloliver/) [Udemy Profile](https://www.udemy.com/user/joomtusraloliver/)
