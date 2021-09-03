@@ -49,4 +49,7 @@ Focus on results and solutions to complex problems, I proactively dedicate mysel
 
 [![raloliver's, Extra Pin Card (react-context-api)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=react-context-api&theme=solarized-dark)](https://github.com/raloliver/react-context-api/)
 
+
+[![raloliver's, Extra Pin Card (nestjs-tasks)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=nestjs-tasks&theme=solarized-dark)](https://github.com/raloliver/nestjs-tasks)
+
 [![raloliver's, Extra Pin Card (type-graphql-mongo)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=type-graphql-mongo&theme=solarized-dark)](https://github.com/raloliver/type-graphql-mongo/)
