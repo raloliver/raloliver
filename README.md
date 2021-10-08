@@ -23,7 +23,9 @@ Involved with SAAS startup environment and software technology in general (desig
 
 Focus on results and solutions to complex problems, I proactively dedicate myself, always looking for ways to solve any challenge that someone entrusts it.
 
-### Demo Projects
+### Demo Projects & Portfolio
+
+[<img src="https://simpleicons.org/icons/notion.svg" width="22" alt="raloliver | portfolio" title="raloliver | portfolio" />](https://aka.amde.com.br/portfolio) [SystemFolio - Portfolio](https://aka.amde.com.br/portfolio).
 
 [<img src="https://simpleicons.org/icons/youtube.svg" width="22" alt="raloliver | youtube" title="raloliver | youtube" />](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz) [A list of videos that I showing some projects](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz).
 
