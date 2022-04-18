@@ -31,7 +31,7 @@ Focus on results and solutions to complex problems, I proactively dedicate mysel
 
 ### CV (Curriculum Vitae)
 
-[<img src="https://simpleicons.org/icons/adobeacrobatreader.svg" width="22" alt="raloliver | cv" title="raloliver | cv"/>](https://raloliver.com/israel-oliveira-cv-v5-en.pdf) [English Version](https://raloliver.com/israel-oliveira-cv-v5-en.pdf)
+[<img src="https://simpleicons.org/icons/adobeacrobatreader.svg" width="22" alt="raloliver | cv" title="raloliver | cv"/>](https://raloliver.com/israel-oliveira-cv-v6-en.pdf) [English Version](https://raloliver.com/israel-oliveira-cv-v6-en.pdf)
 
 ### Training Schools
 
