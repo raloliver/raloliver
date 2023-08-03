@@ -29,7 +29,7 @@ For the companies that do not have a subsidiary in Portugal, I'll wait for UE ci
 
 ### CV (Curriculum Vitae)
 
-[<img src="https://simpleicons.org/icons/adobeacrobatreader.svg" width="22" alt="raloliver | cv" title="raloliver | cv"/>](https://raloliver.com/israel-oliveira-cv-v6-en.pdf) [English Version](https://raloliver.com/israel-oliveira-cv-v6-en.pdf)
+[<img src="https://simpleicons.org/icons/adobeacrobatreader.svg" width="22" alt="raloliver | cv" title="raloliver | cv"/>](https://github.com/raloliver/raloliver/blob/main/israel-oliveira-cv-en.pdf) [English Version](https://github.com/raloliver/raloliver/blob/main/israel-oliveira-cv-en.pdf)
 
 ### Training Schools
 
