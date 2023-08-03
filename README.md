@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-In the last years worked with Angular, Typescript, RxJS, and ES2015. Since 2014 working with AngularJS, jQuery, Javascript, Bootstrap, CSS, UX, besides working on experimental projects with NodeJS, ExpressJS, MongoDB, PWA, Firebase, Flutter, and other latest front-end technologies.
+I am a front-end developer interested in working with another Javascript framework. I am most comfortable working with Javascript, Typescript, and Angular, however, I am open to working with VueJS. In my next role, I want to continue as a front-end developer, mostly with unit tests, e2e tests, bug fixes, and working on legacy front-end code.
 
-Most recently, starting studying the "dark side of the moon", the backend also the patterns involved. This time with Java + Spring Framework, Microservices, Docker, and all stuff that is necessary to be a full-stack developer, also working with ReactJS for experimental/personal projects. 
+I'm from Fundao (Castelo Branco - Portugal) and have been reticent about remote work and looking for hybrid or on-site opportunities. As I live in a country-side city, finding a company with an office in this region is a challenge. Anyway... If there is any hybrid opportunity in Portugal, I am interested. 
 
-Involved with SAAS startup environment and software technology in general (design, development, marketing, and financial).
-
-Focus on results and solutions to complex problems, I proactively dedicate myself, always looking for ways to solve any challenge that someone entrusts it.
+For the companies that do not have a subsidiary in Portugal, I'll wait for UE citizenship before applying for opportunities abroad.
 
 ### Demo Projects & Portfolio
 
