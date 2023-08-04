@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a front-end developer interested in working with another Javascript framework. I am most comfortable working with Javascript, Typescript, and Angular, however, I am open to working with VueJS. In my next role, I want to continue as a front-end developer, mostly with unit tests, e2e tests, bug fixes, and working on legacy front-end code.
+I am a front-end developer interested in working with another Javascript framework. I am most comfortable working with Javascript, Typescript, and Angular, however, I am open to working with ReactJS. In my next role, I want to continue as a front-end developer, mostly with unit tests, e2e tests, bug fixes, and working on legacy front-end code.
 
 I'm from Fundao (Castelo Branco - Portugal) and have been reticent about remote work and looking for hybrid or on-site opportunities. As I live in a country-side city, finding a company with an office in this region is a challenge. Anyway... If there is any hybrid opportunity in Portugal, I am interested. 
 
