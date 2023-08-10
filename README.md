@@ -45,12 +45,12 @@ For the companies that do not have a subsidiary in Portugal, I'll wait for UE ci
 
 [![raloliver's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@raloliver&theme=solarized-dark&layout=compact)](https://wakatime.com/@raloliver)
 
-[![raloliver's, Extra Pin Card (jforum)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=jforum&theme=solarized-dark)](https://github.com/raloliver/jforum/)
+[![raloliver's, Extra Pin Card (recart)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=recart&theme=solarized-dark)](https://github.com/raloliver/recart/)
 
 [![raloliver's, Extra Pin Card (react-context-api)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=react-context-api&theme=solarized-dark)](https://github.com/raloliver/react-context-api/)
 
-[![raloliver's, Extra Pin Card (sb-cd3)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=sb-cd3&theme=solarized-dark)](https://github.com/raloliver/sb-cd3/)
+[![raloliver's, Extra Pin Card (recnotes)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=recnotes&theme=solarized-dark)](https://github.com/raloliver/recnotes/)
 
-[![raloliver's, Extra Pin Card (nestjs-tasks)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=nestjs-tasks&theme=solarized-dark)](https://github.com/raloliver/nestjs-tasks)
+[![raloliver's, Extra Pin Card (react-blog)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=react-blog&theme=solarized-dark)](https://github.com/raloliver/react-blog)
 
-[![raloliver's, Extra Pin Card (type-graphql-mongo)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=type-graphql-mongo&theme=solarized-dark)](https://github.com/raloliver/type-graphql-mongo/)
+[![raloliver's, Extra Pin Card (type-node)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=type-node&theme=solarized-dark)](https://github.com/raloliver/type-node/)
