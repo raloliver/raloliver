@@ -23,7 +23,7 @@ For the companies that do not have a subsidiary in Portugal, I'll wait for UE ci
 
 ### Demo Projects & Portfolio
 
-[<img src="https://simpleicons.org/icons/notion.svg" width="22" alt="raloliver | portfolio" title="raloliver | portfolio" />](https://aka.amde.com.br/portfolio) [SystemFolio - Portfolio](https://aka.amde.com.br/portfolio).
+[<img src="https://simpleicons.org/icons/notion.svg" width="22" alt="raloliver | portfolio" title="raloliver | portfolio" />](https://opalescent-math-a72.notion.site/Portfolio-Since-2017-988ca3494ad64fb8956ae4693e86f4ac?pvs=4) [SystemFolio - Portfolio](https://opalescent-math-a72.notion.site/Portfolio-Since-2017-988ca3494ad64fb8956ae4693e86f4ac?pvs=4). 
 
 [<img src="https://simpleicons.org/icons/youtube.svg" width="22" alt="raloliver | youtube" title="raloliver | youtube" />](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz) [A list of videos that I showing some projects](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz).
 
