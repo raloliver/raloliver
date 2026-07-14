@@ -2,7 +2,11 @@
 
 I am a front-end developer interested in working with another Javascript framework. I am most comfortable working with Javascript, Typescript, and Angular, however, I am open to working with ReactJS. In my next role, I want to continue as a front-end developer, mostly with unit tests, e2e tests, bug fixes, and working on legacy front-end code.
 
-### Demo Projects & Portfolio
+### Linkedin
+
+[<img src="https://simpleicons.org/icons/linkedin.svg" width="22" alt="raloliver | linkedin" title="raloliver | linkedin" />](https://linkedin.com/in/raloliver) [LinkedIn](https://linkedin.com/in/raloliver)
+
+### Portfolio
 
 [<img src="https://simpleicons.org/icons/notion.svg" width="22" alt="raloliver | portfolio" title="raloliver | portfolio" />](https://opalescent-math-a72.notion.site/Portfolio-Since-2017-988ca3494ad64fb8956ae4693e86f4ac?pvs=4) [SystemFolio - Portfolio](https://opalescent-math-a72.notion.site/Portfolio-Since-2017-988ca3494ad64fb8956ae4693e86f4ac?pvs=4)
 
@@ -20,14 +24,14 @@ I am a front-end developer interested in working with another Javascript framewo
 
 [![raloliver's Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=raloliver&langs_count=10&hide=php,dart,visual%20basic,makefile,c%23,tsql,shell,apacheconf,Objective-C,D,Ruby,Swift,Kotlin,ASP&theme=solarized-dark&card_width=500)](http://ionicabizau.github.io/github-profile-languages/?user=%2540raloliver)
 
-[![raloliver's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@raloliver&theme=solarized-dark&layout=compact)](https://wakatime.com/@raloliver)
+[![raloliver's Wakatime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=@raloliver&theme=solarized-dark&layout=compact)](https://wakatime.com/@raloliver)
 
-[![raloliver's, Extra Pin Card (recart)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=recart&theme=solarized-dark)](https://github.com/raloliver/recart/)
+[![raloliver's, Extra Pin Card (recart)](https://github-stats-extended.vercel.app/api/pin/?username=raloliver&repo=recart&theme=solarized-dark)](https://github.com/raloliver/recart/)
 
-[![raloliver's, Extra Pin Card (react-context-api)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=react-context-api&theme=solarized-dark)](https://github.com/raloliver/react-context-api/)
+[![raloliver's, Extra Pin Card (react-context-api)](https://github-stats-extended.vercel.app/api/pin/?username=raloliver&repo=react-context-api&theme=solarized-dark)](https://github.com/raloliver/react-context-api/)
 
-[![raloliver's, Extra Pin Card (recnotes)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=recnotes&theme=solarized-dark)](https://github.com/raloliver/recnotes/)
+[![raloliver's, Extra Pin Card (recnotes)](https://github-stats-extended.vercel.app/api/pin/?username=raloliver&repo=recnotes&theme=solarized-dark)](https://github.com/raloliver/recnotes/)
 
-[![raloliver's, Extra Pin Card (react-blog)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=react-blog&theme=solarized-dark)](https://github.com/raloliver/react-blog)
+[![raloliver's, Extra Pin Card (react-blog)](https://github-stats-extended.vercel.app/api/pin/?username=raloliver&repo=react-blog&theme=solarized-dark)](https://github.com/raloliver/react-blog)
 
-[![raloliver's, Extra Pin Card (type-node)](https://github-readme-stats.vercel.app/api/pin/?username=raloliver&repo=type-node&theme=solarized-dark)](https://github.com/raloliver/type-node/)
+[![raloliver's, Extra Pin Card (type-node)](https://github-stats-extended.vercel.app/api/pin/?username=raloliver&repo=type-node&theme=solarized-dark)](https://github.com/raloliver/type-node/)
