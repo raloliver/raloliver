@@ -4,7 +4,7 @@ I am a front-end developer interested in working with another Javascript framewo
 
 ### Linkedin
 
-[<img src="https://simpleicons.org/icons/linkedin.svg" width="22" alt="raloliver | linkedin" title="raloliver | linkedin" />](https://linkedin.com/in/raloliver) [LinkedIn](https://linkedin.com/in/raloliver)
+[<img src="https://simpleicons.org/icons/inspire.svg" width="22" alt="raloliver | linkedin" title="raloliver | linkedin" />](https://linkedin.com/in/raloliver) [LinkedIn](https://linkedin.com/in/raloliver)
 
 ### Portfolio
 
