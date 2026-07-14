@@ -4,9 +4,9 @@ I am a front-end developer interested in working with another Javascript framewo
 
 ### Demo Projects & Portfolio
 
-[<img src="https://simpleicons.org/icons/notion.svg" width="22" alt="raloliver | portfolio" title="raloliver | portfolio" />](https://opalescent-math-a72.notion.site/Portfolio-Since-2017-988ca3494ad64fb8956ae4693e86f4ac?pvs=4) [SystemFolio - Portfolio](https://opalescent-math-a72.notion.site/Portfolio-Since-2017-988ca3494ad64fb8956ae4693e86f4ac?pvs=4). 
+[<img src="https://simpleicons.org/icons/notion.svg" width="22" alt="raloliver | portfolio" title="raloliver | portfolio" />](https://opalescent-math-a72.notion.site/Portfolio-Since-2017-988ca3494ad64fb8956ae4693e86f4ac?pvs=4) [SystemFolio - Portfolio](https://opalescent-math-a72.notion.site/Portfolio-Since-2017-988ca3494ad64fb8956ae4693e86f4ac?pvs=4)
 
-[<img src="https://simpleicons.org/icons/youtube.svg" width="22" alt="raloliver | youtube" title="raloliver | youtube" />](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz) [A list of videos that I showing some projects](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz).
+[<img src="https://simpleicons.org/icons/youtube.svg" width="22" alt="raloliver | youtube" title="raloliver | youtube" />](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz) [A list of videos that I showing some projects](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz)
 
 ### Training Schools
 
@@ -18,7 +18,7 @@ I am a front-end developer interested in working with another Javascript framewo
 
 [![raloliver's GitHub Stats](https://github-stats-extended.vercel.app/api?username=raloliver&custom_title=raloliver's%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=solarized-dark)](https://profile-summary-for-github.com/user/raloliver)
 
-[![raloliver's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raloliver&langs_count=10&hide=php,dart,visual%20basic,makefile,c%23,tsql,shell,apacheconf,Objective-C,D,Ruby,Swift,Kotlin,ASP&theme=solarized-dark&card_width=500)](http://ionicabizau.github.io/github-profile-languages/?user=%2540raloliver)
+[![raloliver's Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=raloliver&langs_count=10&hide=php,dart,visual%20basic,makefile,c%23,tsql,shell,apacheconf,Objective-C,D,Ruby,Swift,Kotlin,ASP&theme=solarized-dark&card_width=500)](http://ionicabizau.github.io/github-profile-languages/?user=%2540raloliver)
 
 [![raloliver's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@raloliver&theme=solarized-dark&layout=compact)](https://wakatime.com/@raloliver)
 
