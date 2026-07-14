@@ -2,7 +2,7 @@
 
 I am a front-end developer interested in working with another Javascript framework. I am most comfortable working with Javascript, Typescript, and Angular, however, I am open to working with ReactJS. In my next role, I want to continue as a front-end developer, mostly with unit tests, e2e tests, bug fixes, and working on legacy front-end code.
 
-### Linkedin
+### LinkedIn
 
 [<img src="https://simpleicons.org/icons/inspire.svg" width="22" alt="raloliver | linkedin" title="raloliver | linkedin" />](https://linkedin.com/in/raloliver) [LinkedIn](https://linkedin.com/in/raloliver)
 
