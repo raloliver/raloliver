@@ -8,10 +8,6 @@ I am a front-end developer interested in working with another Javascript framewo
 
 [<img src="https://simpleicons.org/icons/youtube.svg" width="22" alt="raloliver | youtube" title="raloliver | youtube" />](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz) [A list of videos that I showing some projects](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz).
 
-### CV (Curriculum Vitae)
-
-[<img src="https://simpleicons.org/icons/adobeacrobatreader.svg" width="22" alt="raloliver | cv" title="raloliver | cv"/>](https://github.com/raloliver/raloliver/blob/main/israel-oliveira-cv-en.pdf) [English Version](https://github.com/raloliver/raloliver/blob/main/israel-oliveira-cv-en.pdf)
-
 ### Training Schools
 
 [<img src="https://cursos.alura.com.br/assets/images/alura/favicon.ico" width="22" alt="raloliver | alura profile" title="raloliver | alura profile"/>](https://cursos.alura.com.br/user/raloliver) [Alura Profile](https://cursos.alura.com.br/user/raloliver)
@@ -20,7 +16,7 @@ I am a front-end developer interested in working with another Javascript framewo
 
 [<img src="https://simpleicons.org/icons/udemy.svg" width="22" alt="raloliver | udemy profile" title="raloliver | udemy profile"/>](https://www.udemy.com/user/joomtusraloliver/) [Udemy Profile](https://www.udemy.com/user/joomtusraloliver/)
 
-[![raloliver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raloliver&show_icons=true&theme=solarized-dark)](https://profile-summary-for-github.com/user/raloliver)
+[![raloliver's GitHub Stats](https://github-stats-extended.vercel.app/api?username=raloliver&custom_title=raloliver's%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=solarized-dark)](https://profile-summary-for-github.com/user/raloliver)
 
 [![raloliver's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raloliver&langs_count=10&hide=php,dart,visual%20basic,makefile,c%23,tsql,shell,apacheconf,Objective-C,D,Ruby,Swift,Kotlin,ASP&theme=solarized-dark&card_width=500)](http://ionicabizau.github.io/github-profile-languages/?user=%2540raloliver)
 
