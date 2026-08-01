@@ -24,7 +24,7 @@ I am a front-end developer interested in working with another Javascript framewo
 
 [![raloliver's Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=raloliver&langs_count=10&hide=php,dart,visual%20basic,makefile,c%23,tsql,shell,apacheconf,Objective-C,D,Ruby,Swift,Kotlin,ASP&theme=solarized-dark&card_width=500)](http://ionicabizau.github.io/github-profile-languages/?user=%2540raloliver)
 
-[![raloliver's Wakatime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=@raloliver&theme=solarized-dark&layout=compact)](https://wakatime.com/@raloliver)
+[![raloliver's Wakatime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=raloliver&theme=solarized-dark&layout=compact)](https://wakatime.com/@raloliver)
 
 [![raloliver's, Extra Pin Card (recart)](https://github-stats-extended.vercel.app/api/pin/?username=raloliver&repo=recart&theme=solarized-dark)](https://github.com/raloliver/recart/)
 
