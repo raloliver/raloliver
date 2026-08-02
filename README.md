@@ -1,6 +1,12 @@
 ### About 👋
 
-I am a front-end developer interested in working with another Javascript framework. I am most comfortable working with Javascript, Typescript, and Angular, however, I am open to working with ReactJS. In my next role, I want to continue as a front-end developer, mostly with unit tests, e2e tests, bug fixes, and working on legacy front-end code.
+I'm a frontend developer with over 10 years of experience, currently working remotely for Lovys, a French insurtech, where I own front-end delivery across multiple product lines using Angular, TypeScript, RxJS, and SASS, building end-to-end features, from architecture decisions to unit test coverage.
+
+I've also taken a hands-on approach to evaluating AI-assisted development tools. I led a research initiative testing GitHub Copilot alongside local LLMs (via Ollama, running models like Qwen and LLaMA) specifically for unit test generation, comparing output quality and generation time across models, and presented the findings to engineering leadership. Day-to-day, I also use AI as a thinking partner during code review, when I come across code that needs refactoring, I'll bring it into an AI chat to explore cleaner approaches before implementing the change myself.
+
+I am currently in Brazil and I am available to start working remotely, and, depending on the proposal and contract terms, I would be genuinely willing to return to Portugal.
+
+I have already lived and worked in Portugal for several years (2020–2024), so this is a move I am familiar with and open to making again.
 
 ### LinkedIn
 
@@ -25,6 +31,8 @@ I am a front-end developer interested in working with another Javascript framewo
 [![raloliver's Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=raloliver&langs_count=10&hide=php,dart,visual%20basic,makefile,c%23,tsql,shell,apacheconf,Objective-C,D,Ruby,Swift,Kotlin,ASP&theme=solarized-dark&card_width=500)](http://ionicabizau.github.io/github-profile-languages/?user=%2540raloliver)
 
 [![raloliver's Wakatime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=raloliver&theme=solarized-dark&layout=compact)](https://wakatime.com/@raloliver)
+
+[![raloliver's, Extra Pin Card (angular-signals)](https://github-stats-extended.vercel.app/api/pin/?username=raloliver&repo=angular-signals&theme=solarized-dark)](https://github.com/raloliver/angular-signals/)
 
 [![raloliver's, Extra Pin Card (recart)](https://github-stats-extended.vercel.app/api/pin/?username=raloliver&repo=recart&theme=solarized-dark)](https://github.com/raloliver/recart/)
 
