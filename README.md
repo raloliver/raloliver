@@ -42,6 +42,4 @@ I have already lived and worked in Portugal for several years (2020–2024), so 
 
 [![raloliver's, Extra Pin Card (recnotes)](https://github-stats-extended.vercel.app/api/pin/?username=raloliver&repo=recnotes&theme=solarized-dark)](https://github.com/raloliver/recnotes/)
 
-[![raloliver's, Extra Pin Card (react-blog)](https://github-stats-extended.vercel.app/api/pin/?username=raloliver&repo=react-blog&theme=solarized-dark)](https://github.com/raloliver/react-blog)
-
 [![raloliver's, Extra Pin Card (type-node)](https://github-stats-extended.vercel.app/api/pin/?username=raloliver&repo=type-node&theme=solarized-dark)](https://github.com/raloliver/type-node/)
