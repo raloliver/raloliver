@@ -8,17 +8,19 @@ I am currently in Brazil and I am available to start working remotely, and, depe
 
 I have already lived and worked in Portugal for several years (2020–2024), so this is a move I am familiar with and open to making again.
 
-### LinkedIn
+### Links
 
 <a href="https://www.linkedin.com/in/raloliver/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="raloliver | linkedin"/>
 </a>
 
-### Portfolio
+<a href="[https://www.linkedin.com/in/raloliver/](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz)" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-2c2c2c?style=for-the-badge&logo=notion&logoColor=white" alt="raloliver | portfolio"/>
+</a>
 
-[<img src="https://simpleicons.org/icons/notion.svg" width="22" alt="raloliver | portfolio" title="raloliver | portfolio" />](https://opalescent-math-a72.notion.site/Portfolio-Since-2017-988ca3494ad64fb8956ae4693e86f4ac?pvs=4) [SystemFolio - Portfolio](https://opalescent-math-a72.notion.site/Portfolio-Since-2017-988ca3494ad64fb8956ae4693e86f4ac?pvs=4)
-
-[<img src="https://simpleicons.org/icons/youtube.svg" width="22" alt="raloliver | youtube" title="raloliver | youtube" />](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz) [A list of videos that I showing some projects](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz)
+<a href="[https://www.linkedin.com/in/raloliver/](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz)" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="raloliver | youtube"/>
+</a>
 
 ### Training Schools
 
