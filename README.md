@@ -8,7 +8,7 @@ I am currently in Brazil and I am available to start working remotely, and, depe
 
 I have already lived and worked in Portugal for several years (2020–2024), so this is a move I am familiar with and open to making again.
 
-### Links
+### Social Links
 
 <a href="https://www.linkedin.com/in/raloliver/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="raloliver | linkedin"/></a>
 <a href="https://aka.amde.com.br/systemfolio"><img src="https://img.shields.io/badge/Portfolio-2c2c2c?style=for-the-badge&logo=notion&logoColor=white" alt="raloliver | portfolio"/></a>
@@ -16,11 +16,11 @@ I have already lived and worked in Portugal for several years (2020–2024), so 
 
 ### Training Schools
 
-[<img src="https://cursos.alura.com.br/assets/images/alura/favicon.ico" width="22" alt="raloliver | alura profile" title="raloliver | alura profile"/>](https://cursos.alura.com.br/user/raloliver) [Alura Profile](https://cursos.alura.com.br/user/raloliver)
+<a href="https://cursos.alura.com.br/user/raloliver"><img src="https://img.shields.io/badge/Alura-ADB5C5?style=for-the-badge&logo=a-frame&logoColor=white" alt="raloliver | alura profile"/></a>
+<a href="https://app.pluralsight.com/profile/raloliver"><img src="https://img.shields.io/badge/PluralSight-FF1675?style=for-the-badge&logo=pluralsight&logoColor=white" alt="raloliver | pluralsight profile"/></a>
+<a href="https://www.udemy.com/user/joomtusraloliver/"><img src="https://img.shields.io/badge/Udemy-892DE1?style=for-the-badge&logo=udemy&logoColor=white" alt="raloliver | udemy profile"/></a>
 
-[<img src="https://simpleicons.org/icons/pluralsight.svg" width="22" alt="raloliver | pluralsight profile" title="raloliver | pluralsight profile"/>](https://app.pluralsight.com/profile/raloliver) [Pluralsigth Profile](https://app.pluralsight.com/profile/raloliver)
-
-[<img src="https://simpleicons.org/icons/udemy.svg" width="22" alt="raloliver | udemy profile" title="raloliver | udemy profile"/>](https://www.udemy.com/user/joomtusraloliver/) [Udemy Profile](https://www.udemy.com/user/joomtusraloliver/)
+### GitHub Stats
 
 [![raloliver's GitHub Stats](https://github-stats-extended.vercel.app/api?username=raloliver&custom_title=raloliver's%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=solarized-dark)](https://profile-summary-for-github.com/user/raloliver)
 
