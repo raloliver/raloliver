@@ -10,7 +10,9 @@ I have already lived and worked in Portugal for several years (2020–2024), so 
 
 ### LinkedIn
 
-[<img src="https://simpleicons.org/icons/inspire.svg" width="22" alt="raloliver | linkedin" title="raloliver | linkedin" />](https://linkedin.com/in/raloliver) [LinkedIn](https://linkedin.com/in/raloliver)
+<a href="https://www.linkedin.com/in/raloliver/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="raloliver | linkedin"/>
+</a>
 
 ### Portfolio
 
