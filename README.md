@@ -10,17 +10,9 @@ I have already lived and worked in Portugal for several years (2020–2024), so 
 
 ### Links
 
-<a href="https://www.linkedin.com/in/raloliver/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="raloliver | linkedin"/>
-</a>
-
-<a href="[https://www.linkedin.com/in/raloliver/](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz)" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-2c2c2c?style=for-the-badge&logo=notion&logoColor=white" alt="raloliver | portfolio"/>
-</a>
-
-<a href="[https://www.linkedin.com/in/raloliver/](https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz)" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="raloliver | youtube"/>
-</a>
+<a href="https://www.linkedin.com/in/raloliver/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="raloliver | linkedin"/></a>
+<a href="https://aka.amde.com.br/systemfolio"><img src="https://img.shields.io/badge/Portfolio-2c2c2c?style=for-the-badge&logo=notion&logoColor=white" alt="raloliver | portfolio"/></a>
+<a href="https://www.youtube.com/playlist?list=PLZFKGHdrecCM8SMrVfk2I-PqQOj3ud-Bz)"><img src="https://img.shields.io/badge/Youtube-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="raloliver | youtube"/></a>
 
 ### Training Schools
 
