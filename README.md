@@ -28,7 +28,7 @@ I have already lived and worked in Portugal for several years (2020–2024), so 
 
 [![raloliver's Wakatime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=raloliver&theme=solarized-dark&layout=compact)](https://wakatime.com/@raloliver)
 
-[![raloliver's, Extra Pin Card (angular-signals)](https://github-stats-extended.vercel.app/api/pin/?username=raloliver&repo=nestjs-tasks&theme=solarized-dark&1)](https://github.com/raloliver/nestjs-tasks/)
+[![raloliver's, Extra Pin Card (nextjs-tasks)](https://github-stats-extended.vercel.app/api/pin/?username=raloliver&repo=nestjs-tasks&theme=solarized-dark&1)](https://github.com/raloliver/nestjs-tasks/)
 
 [![raloliver's, Extra Pin Card (angular-signals)](https://github-stats-extended.vercel.app/api/pin/?username=raloliver&repo=angular-signals&theme=solarized-dark&1)](https://github.com/raloliver/angular-signals/)
 
@@ -39,3 +39,5 @@ I have already lived and worked in Portugal for several years (2020–2024), so 
 [![raloliver's, Extra Pin Card (recnotes)](https://github-stats-extended.vercel.app/api/pin/?username=raloliver&repo=recnotes&theme=solarized-dark)](https://github.com/raloliver/recnotes/)
 
 [![raloliver's, Extra Pin Card (type-node)](https://github-stats-extended.vercel.app/api/pin/?username=raloliver&repo=type-node&theme=solarized-dark)](https://github.com/raloliver/type-node/)
+
+[![raloliver's Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=raloliver&theme=solarized-dark&hide_border=false)](https://github.com/raloliver)
