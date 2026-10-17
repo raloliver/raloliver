@@ -28,6 +28,8 @@ I have already lived and worked in Portugal for several years (2020–2024), so 
 
 [![raloliver's Wakatime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=raloliver&theme=solarized-dark&layout=compact)](https://wakatime.com/@raloliver)
 
+[![raloliver's, Extra Pin Card (cep-finder)](https://github-stats-extended.vercel.app/api/pin/?username=raloliver&repo=cep-finder&theme=solarized-dark&1)](https://github.com/raloliver/cep-finder/)
+
 [![raloliver's, Extra Pin Card (nextjs-tasks)](https://github-stats-extended.vercel.app/api/pin/?username=raloliver&repo=nestjs-tasks&theme=solarized-dark&1)](https://github.com/raloliver/nestjs-tasks/)
 
 [![raloliver's, Extra Pin Card (angular-signals)](https://github-stats-extended.vercel.app/api/pin/?username=raloliver&repo=angular-signals&theme=solarized-dark&1)](https://github.com/raloliver/angular-signals/)
